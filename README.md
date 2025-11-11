@@ -101,14 +101,6 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 - Pagamento seguro com proteção contra fraudes  
 - Reputação baseada em histórico e feedback  
 
-### 📊 Matriz de Priorização
-| Ideia | Impacto | Viabilidade | Inovação | **Score** |
-|-------|----------|-------------|-----------|------------|
-| Avaliações e fotos | 5 | 5 | 3 | **13** |
-| Programa de indicação | 4 | 4 | 4 | **12** |
-| Garantia de pagamento | 5 | 4 | 3 | **12** |
-| Selo de verificação | 4 | 4 | 3 | **11** |
-
 ---
 
 ## ⚙️ 4) PROTOTIPAÇÃO
@@ -118,14 +110,29 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 - **Fluxo do Prestador:** Cadastrar → Receber propostas → Aceitar → Executar → Receber → Avaliar  
 - **Fluxo de Suporte:** Receber disputa → Analisar → Resolver → Notificar partes  
 
-### 🧱 Protótipos Sugeridos
-- Wireframes das telas principais: **Login, Busca, Perfil, Chat e Avaliação**  
-- Diagramas UML: **Casos de uso, sequência de contratação e pagamento**  
-- **Modelo lógico do banco de dados:**
+🔁 Fluxo: Cliente → Prestador
 
-```sql
-users(id, nome, tipo, telefone, localização, avaliação)
-services(id, user_id, título, descrição, preço)
-jobs(id, service_id, cliente_id, status, valor, data)
-reviews(id, job_id, nota, comentário)
-payments(id, job_id, valor, status, método)
+**Tela 1**: Login / Cadastro
+Campos: Nome, Telefone, Senha
+Botões: “Entrar” / “Criar Conta”
+Acesso rápido via Google
+
+**Tela 2**: Tela Inicial / Geolocalização
+Mapa mostrando prestadores próximos
+Filtro por categoria de prestador
+Botão “Ver Detalhes”
+
+**Tela 3**: Perfil do Prestador
+Foto, nome, avaliação (★)
+Serviços oferecidos e preço médio
+Botões: “Conversar” ou “Contratar”
+
+**Tela 4**: Chat / Agendamento
+Mensagens diretas entre cliente e prestador
+Botão “Confirmar Agendamento”
+Confirmação automática de horário
+
+**Tela 5**: Pagamento e Avaliação
+Opções de pagamento (Pix, cartão)
+Mensagem de sucesso
+Campo de avaliação por estrelas e comentário
