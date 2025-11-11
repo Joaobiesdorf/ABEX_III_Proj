@@ -183,11 +183,4 @@ Opções de pagamento (Pix, cartão)
 Mensagem de sucesso
 Campo de avaliação por estrelas e comentário
 
-### Teste
-
-| ID     | Hipótese                                                        | Métrica / Como Medir                                     | Critério de Aceitação                  | Evidência Coletada              |
-| ------ | --------------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------- | ------------------------------- |
-| **H1** | Usuário compreende o propósito da tela inicial sem ajuda        | Taxa de acerto na descrição do objetivo em até 30s       | ≥ 80% descrevem corretamente           | Observações e gravação de tela  |
-| **H2** | Usuário consegue buscar e contratar um prestador sem bloqueios  | Conclusão da tarefa, tempo e erros                       | ≥ 70% concluem sem ajuda; tempo ≤ 3min | Cronometragem e feedback        |
-| **H3** | Botão principal de ação (“Contratar”) é claramente identificado | Cliques corretos na 1ª tentativa; avaliação Likert (1–5) | ≥ 80% clicam corretamente; média ≥ 4   | Entrevista e análise de cliques |
 
