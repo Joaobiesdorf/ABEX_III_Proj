@@ -11,7 +11,7 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 | **Ideação** | ✅ |
 | **Prototipação** | ✅ |
 
-## 🧭 1) IMERSÃO & EMPATIA
+## 🧭 IMERSÃO & EMPATIA
 
 ### 🎯 Stakeholders
 - **Cliente:** Pessoa física e jurídica  
@@ -36,14 +36,6 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 - Avaliação por estrelas e comentários para cada prestador  
 - Sistema multilíngue e adaptável por região  
 
-### 🌍 Fatores Macro (STEEPL)
-| Fator | Descrição |
-|-------|------------|
-| **Social** | Geração de renda e formalização do trabalho autônomo |
-| **Tecnológico** | Acesso via desktop e mobile, interface responsiva |
-| **Ecológico** | Sustentabilidade em transações digitais |
-| **Político/Legal** | Conformidade com LGPD e normas fiscais |
-
 ### 💞 Empatia
 - **Clientes:** Buscam rapidez, praticidade e segurança; sentem curiosidade e desconfiança.  
 - **Prestadores:** Desejam renda estável, liberdade e boa reputação; sentem orgulho e cautela.  
@@ -58,7 +50,7 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 
 ---
 
-## 🧩 2) DEFINIÇÃO & SÍNTESE
+## 🧩 DEFINIÇÃO & SÍNTESE
 
 ### ❗ Problemas Identificados
 - Desconfiança inicial na contratação  
@@ -86,7 +78,7 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 
 ---
 
-## 💭 3) IDEAÇÃO
+## 💭 IDEAÇÃO
 
 ### ✨ Ideias Propostas
 - Sistema de avaliações e comentários com fotos  
@@ -103,12 +95,27 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 
 ---
 
-## ⚙️ 4) PROTOTIPAÇÃO
+## ⚙️ PROTOTIPAÇÃO
 
 ### 🔁 Modelos e Fluxos
 - **Fluxo do Cliente:** Buscar → Selecionar → Contratar → Pagar → Avaliar  
 - **Fluxo do Prestador:** Cadastrar → Receber propostas → Aceitar → Executar → Receber → Avaliar  
-- **Fluxo de Suporte:** Receber disputa → Analisar → Resolver → Notificar partes  
+- **Fluxo de Suporte:** Receber disputa → Analisar → Resolver → Notificar partes
+
+  👤 Personas
+| Persona                      | Descrição                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **João da Silva (Cliente)**  | **Idade:** 35 anos. **Profissão:** Pequeno empresário.<br>**Objetivo:** Encontrar prestadores de serviço confiáveis com rapidez.<br>**Frustrações:** Já teve experiências ruins com profissionais sem referências.<br>**Necessidades:** Quer contratar com segurança, ver avaliações e pagar pelo app.                      |
+| **Maria Souza (Prestadora)** | **Idade:** 42 anos. **Profissão:** Faxineira autônoma.<br>**Objetivo:** Conseguir mais serviços sem depender de indicações.<br>**Frustrações:** Dificuldade de encontrar clientes fixos e receber pagamentos com segurança.<br>**Necessidades:** Deseja um app simples e confiável para ser avaliada e garantir o recebimento. |
+
+| Etapa                        | Ação do Usuário                                   | Oportunidades / Soluções FACILITA                                  |
+| ---------------------------- | ------------------------------------------------- | ------------------------------------------------------------------ |
+| **1. Descoberta**            | João precisa de um jardineiro e abre o app.       | Mostrar prestadores próximos com avaliações e selo de verificação. |
+| **2. Busca e Seleção**       | Usa o filtro e escolhe um prestador bem avaliado. | Exibir perfil completo com avaliações reais e fotos.               |
+| **3. Contato e Agendamento** | Inicia o chat e combina o horário do serviço.     | Chat interno e confirmação de agendamento.                         |
+| **4. Execução e Pagamento**  | O serviço é realizado e João paga pelo app.       | Pagamento protegido e registro automático no sistema.              |
+| **5. Avaliação e Retorno**   | Avalia o prestador e salva como favorito.         | Sistema de avaliações e histórico de contratações.                 |
+
 
 🔁 Fluxo: Cliente → Prestador
 
@@ -136,3 +143,10 @@ Confirmação automática de horário
 Opções de pagamento (Pix, cartão)
 Mensagem de sucesso
 Campo de avaliação por estrelas e comentário
+
+| ID     | Hipótese                                                        | Métrica / Como Medir                                     | Critério de Aceitação                  | Evidência Coletada              |
+| ------ | --------------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------- | ------------------------------- |
+| **H1** | Usuário compreende o propósito da tela inicial sem ajuda        | Taxa de acerto na descrição do objetivo em até 30s       | ≥ 80% descrevem corretamente           | Observações e gravação de tela  |
+| **H2** | Usuário consegue buscar e contratar um prestador sem bloqueios  | Conclusão da tarefa, tempo e erros                       | ≥ 70% concluem sem ajuda; tempo ≤ 3min | Cronometragem e feedback        |
+| **H3** | Botão principal de ação (“Contratar”) é claramente identificado | Cliques corretos na 1ª tentativa; avaliação Likert (1–5) | ≥ 80% clicam corretamente; média ≥ 4   | Entrevista e análise de cliques |
+
