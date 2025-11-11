@@ -103,10 +103,30 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 - **Fluxo de Suporte:** Receber disputa → Analisar → Resolver → Notificar partes
 
   👤 Personas
-| Persona                      | Descrição                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **João da Silva (Cliente)**  | **Idade:** 35 anos. **Profissão:** Pequeno empresário.<br>**Objetivo:** Encontrar prestadores de serviço confiáveis com rapidez.<br>**Frustrações:** Já teve experiências ruins com profissionais sem referências.<br>**Necessidades:** Quer contratar com segurança, ver avaliações e pagar pelo app.                      |
-| **Maria Souza (Prestadora)** | **Idade:** 42 anos. **Profissão:** Faxineira autônoma.<br>**Objetivo:** Conseguir mais serviços sem depender de indicações.<br>**Frustrações:** Dificuldade de encontrar clientes fixos e receber pagamentos com segurança.<br>**Necessidades:** Deseja um app simples e confiável para ser avaliada e garantir o recebimento. |
+| **Persona 1**    | **Descrição**                                                       |
+| ---------------- | ------------------------------------------------------------------- |
+| **Idade**        | 35 anos                                                             |
+| **Profissão**    | Pequeno empresário                                                  |
+| **Perfil**       | Usa o celular para resolver tudo; valoriza agilidade e praticidade. |
+| **Objetivo**     | Encontrar prestadores de serviço de confiança rapidamente.          |
+| **Frustrações**  | Já teve experiências ruins com profissionais sem referências.       |
+| **Necessidades** | Quer contratar com segurança, ver avaliações e pagar pelo app.      |
+| **Tecnologia**   | Usa Android, conhece apps como iFood e Mercado Livre.               |
+| **Citação**      | “Quero resolver rápido e saber que o profissional é confiável.”     |
+
+
+| **Persona 2**    | **Descrição**                                                               |
+| ---------------- | --------------------------------------------------------------------------- |
+| **Idade**        | 42 anos                                                                     |
+| **Profissão**    | Faxineira autônoma                                                          |
+| **Perfil**       | Trabalha por conta própria, depende de indicações de clientes.              |
+| **Objetivo**     | Conseguir mais serviços sem precisar de intermediários.                     |
+| **Frustrações**  | Dificuldade de encontrar clientes fixos e receber pagamentos com segurança. |
+| **Necessidades** | Quer um app simples, onde possa ser avaliada e garantir seus pagamentos.    |
+| **Tecnologia**   | Usa celular básico, com internet pré-paga.                                  |
+| **Citação**      | “Quero ter mais clientes e saber que vou receber direitinho.”               |
+
+
 
 | Etapa                        | Ação do Usuário                                   | Oportunidades / Soluções FACILITA                                  |
 | ---------------------------- | ------------------------------------------------- | ------------------------------------------------------------------ |
