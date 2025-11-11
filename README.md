@@ -1,7 +1,7 @@
 # 🚀 FACILITA
 
 **Autores:**  
-Cauã Xavier Rocha e João Gabriel Biesdorf  
+João Gabriel Biesdorf  
 
 ---
 | Etapa DT | Status |
