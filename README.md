@@ -111,6 +111,7 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 - **Fluxo de Suporte:** Receber disputa → Analisar → Resolver → Notificar partes
 
 
+
 👤 Persona 1
 
 | **João**         | **Descrição**                                                       |
@@ -123,6 +124,8 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 | **Necessidades** | Quer contratar com segurança, ver avaliações e pagar pelo app.      |
 | **Tecnologia**   | Usa Android, conhece apps como iFood e Mercado Livre.               |
 | **Citação**      | “Quero resolver rápido e saber que o profissional é confiável.”     |
+
+
 
 👤 Persona 2
 
@@ -138,6 +141,8 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 | **Citação**      | “Quero ter mais clientes e saber que vou receber direitinho.”               |
 
 
+
+
 🗺️ **Jornada do Usuário – Fluxo Crítico (Cliente → Prestador)**
 
 | Etapa                        | Ação do Usuário                                   | Oportunidades / Soluções FACILITA                                  |
@@ -147,6 +152,7 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 | **3. Contato e Agendamento** | Inicia o chat e combina o horário do serviço.     | Chat interno e confirmação de agendamento.                         |
 | **4. Execução e Pagamento**  | O serviço é realizado e João paga pelo app.       | Pagamento protegido e registro automático no sistema.              |
 | **5. Avaliação e Retorno**   | Avalia o prestador e salva como favorito.         | Sistema de avaliações e histórico de contratações.                 |
+
 
 
 🔁 Fluxo: Cliente → Prestador
