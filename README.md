@@ -102,7 +102,8 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 - **Fluxo do Prestador:** Cadastrar → Receber propostas → Aceitar → Executar → Receber → Avaliar  
 - **Fluxo de Suporte:** Receber disputa → Analisar → Resolver → Notificar partes
 
-  👤 Persona 1
+👤 Persona 1
+
 | **João**         | **Descrição**                                                       |
 | ---------------- | ------------------------------------------------------------------- |
 | **Idade**        | 35 anos                                                             |
@@ -115,6 +116,7 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 | **Citação**      | “Quero resolver rápido e saber que o profissional é confiável.”     |
 
 👤 Persona 2
+
 | **Maria**        | **Descrição**                                                               |
 | ---------------- | --------------------------------------------------------------------------- |
 | **Idade**        | 42 anos                                                                     |
@@ -125,6 +127,7 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 | **Necessidades** | Quer um app simples, onde possa ser avaliada e garantir seus pagamentos.    |
 | **Tecnologia**   | Usa celular básico, com internet pré-paga.                                  |
 | **Citação**      | “Quero ter mais clientes e saber que vou receber direitinho.”               |
+
 
 🗺️ **Jornada do Usuário – Fluxo Crítico (Cliente → Prestador)**
 
