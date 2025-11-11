@@ -102,8 +102,8 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 - **Fluxo do Prestador:** Cadastrar → Receber propostas → Aceitar → Executar → Receber → Avaliar  
 - **Fluxo de Suporte:** Receber disputa → Analisar → Resolver → Notificar partes
 
-  👤 Personas
-| **Persona 1**    | **Descrição**                                                       |
+  👤 Persona 1
+| **João**         | **Descrição**                                                       |
 | ---------------- | ------------------------------------------------------------------- |
 | **Idade**        | 35 anos                                                             |
 | **Profissão**    | Pequeno empresário                                                  |
@@ -114,8 +114,8 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 | **Tecnologia**   | Usa Android, conhece apps como iFood e Mercado Livre.               |
 | **Citação**      | “Quero resolver rápido e saber que o profissional é confiável.”     |
 
-
-| **Persona 2**    | **Descrição**                                                               |
+👤 Persona 2
+| **Maria**        | **Descrição**                                                               |
 | ---------------- | --------------------------------------------------------------------------- |
 | **Idade**        | 42 anos                                                                     |
 | **Profissão**    | Faxineira autônoma                                                          |
@@ -126,7 +126,7 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 | **Tecnologia**   | Usa celular básico, com internet pré-paga.                                  |
 | **Citação**      | “Quero ter mais clientes e saber que vou receber direitinho.”               |
 
-
+🗺️ **Jornada do Usuário – Fluxo Crítico (Cliente → Prestador)**
 
 | Etapa                        | Ação do Usuário                                   | Oportunidades / Soluções FACILITA                                  |
 | ---------------------------- | ------------------------------------------------- | ------------------------------------------------------------------ |
