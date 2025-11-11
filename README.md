@@ -4,6 +4,12 @@
 Cauã Xavier Rocha e João Gabriel Biesdorf  
 
 ---
+| Etapa DT | Status |
+|----------|------------|
+| **Empatia/Imersão** | ✅ |
+| **Definição** | ✅ |
+| **Ideação** | ✅ |
+| **Prototipação** | ✅ |
 
 ## 🧭 1) IMERSÃO & EMPATIA
 
@@ -35,7 +41,6 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 |-------|------------|
 | **Social** | Geração de renda e formalização do trabalho autônomo |
 | **Tecnológico** | Acesso via desktop e mobile, interface responsiva |
-| **Econômico** | Sensibilidade a taxas e incentivos para adesão inicial |
 | **Ecológico** | Sustentabilidade em transações digitais |
 | **Político/Legal** | Conformidade com LGPD e normas fiscais |
 
