@@ -111,7 +111,7 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 
 
 
-👤 Persona 1
+###👤 Persona 1
 
 | **João**         | **Descrição**                                                       |
 | ---------------- | ------------------------------------------------------------------- |
@@ -126,7 +126,7 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 
 
 
-👤 Persona 2
+###👤 Persona 2
 
 | **Maria**        | **Descrição**                                                               |
 | ---------------- | --------------------------------------------------------------------------- |
@@ -142,7 +142,7 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 
 
 
-🗺️ **Jornada do Usuário – Fluxo Crítico (Cliente → Prestador)**
+### 🗺️ Jornada do Usuário – Fluxo Crítico (Cliente → Prestador)
 
 | Etapa                        | Ação do Usuário                                   | Oportunidades / Soluções FACILITA                                  |
 | ---------------------------- | ------------------------------------------------- | ------------------------------------------------------------------ |
@@ -154,7 +154,7 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 
 
 
-🔁 Fluxo: Cliente → Prestador
+###🔁 Fluxo: Cliente → Prestador
 
 **Tela 1**: Login / Cadastro
 Campos: Nome, Telefone, Senha
@@ -180,6 +180,8 @@ Confirmação automática de horário
 Opções de pagamento (Pix, cartão)
 Mensagem de sucesso
 Campo de avaliação por estrelas e comentário
+
+### Teste
 
 | ID     | Hipótese                                                        | Métrica / Como Medir                                     | Critério de Aceitação                  | Evidência Coletada              |
 | ------ | --------------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------- | ------------------------------- |
