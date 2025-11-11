@@ -1,0 +1,14 @@
+RF001 |	Cadastro/Login |	O sistema deve permitir que novos Usuários se cadastrem usando e-mail e senha, ou contas de terceiros (Ex: Google).
+RF002 |	Cadastro/Login |	O sistema deve permitir que novos Prestadores se cadastrem fornecendo e-mail, senha, categoria do serviço (Ex: Faxineira, Jardineiro) e raio de atendimento.
+RF003 |	Cadastro/Login |	O sistema deve permitir que Usuários e Prestadores façam login e logout.
+RF004 |	Localização/Busca |	O sistema deve usar a geolocalização do Usuário para determinar sua localização atual.
+RF005 |	Localização/Busca |	O sistema deve permitir ao Usuário buscar por Prestadores por Categoria de serviço (Ex: Elétrica, Limpeza).
+RF006 | Localização/Busca |	O sistema deve exibir uma lista ou mapa de Prestadores localizados dentro do raio de atendimento definido por eles e perto do Usuário.
+RF007 |	Localização/Busca |	O sistema deve permitir ao Usuário filtrar os Prestadores por critérios adicionais (Ex: Avaliação, Preço/Hora).
+RF008 |	Visualização | O sistema deve permitir que o Usuário visualize o perfil detalhado do Prestador, incluindo descrição, serviços oferecidos e avaliações.
+RF009 |	Visualização | O sistema deve exibir a distância aproximada do Prestador em relação ao Usuário.
+RF010 |	Contato |	O sistema deve oferecer um recurso de chat interno para que o Usuário possa entrar em contato direto com o Prestador.
+RF011 |	Contato |	O sistema deve enviar notificações ao Prestador quando um Usuário envia uma nova mensagem.
+RF012 |	Gerenciamento de Perfil |	O Prestador deve poder atualizar seus dados de contato, foto, descrição e a lista de serviços oferecidos.
+RF013 |	Gerenciamento de Perfil |	O Prestador deve poder configurar seu raio de atendimento em quilômetros.
+RF014 |	Avaliação |	O sistema deve permitir que o Usuário avalie o Prestador após a conclusão de um serviço, usando uma nota (Ex: 1 a 5 estrelas) e um comentário.
