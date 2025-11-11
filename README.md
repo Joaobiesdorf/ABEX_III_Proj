@@ -98,11 +98,11 @@ Cauã Xavier Rocha e João Gabriel Biesdorf
 ## ⚙️ PROTOTIPAÇÃO
 
 ### 💡 Técnologias
--- **Front-end:** Uso de flutter para desenvolvimento do aplicativo.
--- **Banco de dados:** Uso de Oracle para armazenamento de dados.
--- **Geolocalização:** Google Maps API.
--- **Controle de versão:** Github.
--- **Mapeamento de atividades:** Jira, Trello, Bitbucket etc.
+- **Front-end:** Uso de flutter para desenvolvimento do aplicativo.
+- **Banco de dados:** Uso de Oracle para armazenamento de dados.
+- **Geolocalização:** Google Maps API.
+- **Controle de versão:** Github.
+- **Mapeamento de atividades:** Jira, Trello, Bitbucket etc.
 <br>
 ### 🔁 Modelos e Fluxos
 - **Fluxo do Cliente:** Buscar → Selecionar → Contratar → Pagar → Avaliar  
