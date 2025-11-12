@@ -3,14 +3,6 @@
 **Autores:**  
 João Gabriel Biesdorf  
 
----
-| Etapa DT | Status |
-|----------|------------|
-| **Empatia/Imersão** | ✅ |
-| **Definição** | ✅ |
-| **Ideação** | ✅ |
-| **Prototipação** | ✅ |
-
 ## 🧭 IMERSÃO & EMPATIA
 
 ### 🎯 Stakeholders
