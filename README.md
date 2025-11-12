@@ -101,7 +101,7 @@ João Gabriel Biesdorf
 - **Fluxo do Prestador:** Cadastrar → Receber propostas → Aceitar → Executar → Receber → Avaliar  
 - **Fluxo de Suporte:** Receber disputa → Analisar → Resolver → Notificar partes
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/257d30d9-56e9-4678-94ed-30d3624fb4c9" />
+
 
 
 
