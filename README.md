@@ -183,7 +183,6 @@ Opções de pagamento (Pix, cartão)
 Mensagem de sucesso
 Campo de avaliação por estrelas e comentário
 
-<img width="802" height="1322" alt="image" src="https://github.com/user-attachments/assets/ed88e7e4-c106-47b5-b48d-91bddcd7528d" />
 
 
 
