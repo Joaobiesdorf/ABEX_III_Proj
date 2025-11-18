@@ -218,7 +218,12 @@ Mensagem de sucesso
 Campo de avaliação por estrelas e comentário
 
 ---
+## UML
+https://github.com/Joaobiesdorf/ABEX_III_Proj/blob/main/docs/UML.png
 
+## Demonstração Beta do site
+https://github.com/Joaobiesdorf/ABEX_III_Proj/blob/main/docs/Demonstra%C3%A7%C3%A3o%20BetaSite.mp4
+---
 ## Requisitos funcionais e não funcionais
 
 | RF     | Módulo              | Requisito Funcional |
