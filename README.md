@@ -250,13 +250,12 @@ Campo de avaliação por estrelas e comentário
 |----------|------------------|--------------------------|
 | RNF001  | Performance      | O tempo de carregamento da tela inicial e da lista de prestadores mais próximos não deve exceder 3 segundos. |
 | RNF002  | Performance      | A consulta de busca e filtragem de prestadores deve retornar resultados em menos de 1.5 segundos. |
-| RNF003  | Segurança        | As senhas dos usuários e prestadores devem ser armazenadas de forma segura (Ex: criptografia bcrypt ou argon2). |
-| RNF004  | Segurança        | A comunicação entre o aplicativo e a API (backend) deve ser criptografada (TLS/SSL - HTTPS). |
+| RNF003  | Segurança        | As senhas dos usuários e prestadores devem ser armazenadas de forma segura. |
+| RNF004  | Segurança        | A comunicação entre o aplicativo e a API deve ser criptografada. |
 | RNF005  | Usabilidade      | A interface do aplicativo deve ser intuitiva e responsiva, adaptando-se a diferentes tamanhos de tela de smartphones. |
 | RNF006  | Usabilidade      | A navegação entre as telas de busca, perfil e chat deve ser clara, exigindo no máximo 3 cliques para acessar o perfil de um prestador a partir da tela inicial. |
-| RNF007  | Confiabilidade   | O sistema deve ter uma disponibilidade (uptime) mínima de 99.5% por mês. |
-| RNF008  | Manutenibilidade | O código-fonte deve ser modularizado e documentado, facilitando a adição de novas categorias de serviço ou funcionalidades futuras (Ex: agendamento). |
-| RNF009  | Escalabilidade   | A arquitetura deve ser capaz de suportar um crescimento de até 10x o número inicial de usuários cadastrados nos primeiros 12 meses. |
-| RNF010  | Tecnologia       | O aplicativo deve ser compatível com as duas versões mais recentes dos sistemas operacionais Android e iOS. |
+| RNF007  | Manutenibilidade | O código-fonte deve ser modularizado e documentado, facilitando a adição de novas categorias de serviço ou funcionalidades futuras (Ex: agendamento). |
+| RNF008  | Escalabilidade   | A arquitetura deve ser capaz de suportar um crescimento de até 10x o número inicial de usuários cadastrados nos primeiros 12 meses. |
+| RNF009  | Tecnologia       | O aplicativo deve ser compatível com as duas versões mais recentes dos sistemas operacionais Android e iOS. |
 
 
