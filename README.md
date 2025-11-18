@@ -6,7 +6,7 @@ João Gabriel Biesdorf
 ## 🧭 IMERSÃO & EMPATIA
 
 ### 🎯 Stakeholders
-- **Cliente & Usuario:** Pessoa (Física ou Jurídica) e Prestador de serviços autônomos 
+- **Cliente & Usuário:** Pessoa (Física ou Jurídica) e Prestador de serviços autônomos 
 - **Ambiente interno:** Desenvolvedores, suporte, marketing e financeiro  
 - **Ambiente externo:** Sindicatos, plataformas parceiras e imprensa  
 - **Macro-ambiente:** Legislação trabalhista, economia local e empregabilidade  
