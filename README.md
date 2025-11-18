@@ -175,6 +175,40 @@ Opções de pagamento (Pix, cartão)
 Mensagem de sucesso
 Campo de avaliação por estrelas e comentário
 
+---
 
+## Requisitos funcionais e não funcionais
+
+| RF     | Módulo              | Requisito Funcional |
+|---------|---------------------|---------------------|
+| RF001  | Cadastro/Login      | O sistema deve permitir que novos Usuários se cadastrem usando e-mail e senha, ou contas de terceiros (Ex: Google). |
+| RF002  | Cadastro/Login      | O sistema deve permitir que novos Prestadores se cadastrem fornecendo e-mail, senha, categoria do serviço (Ex: Faxineira, Jardineiro) e raio de atendimento. |
+| RF003  | Cadastro/Login      | O sistema deve permitir que Usuários e Prestadores façam login e logout. |
+| RF004  | Localização/Busca   | O sistema deve usar a geolocalização do Usuário para determinar sua localização atual. |
+| RF005  | Localização/Busca   | O sistema deve permitir ao Usuário buscar por Prestadores por Categoria de serviço (Ex: Elétrica, Limpeza). |
+| RF006  | Localização/Busca   | O sistema deve exibir uma lista ou mapa de Prestadores localizados dentro do raio de atendimento definido por eles e perto do Usuário. |
+| RF007  | Localização/Busca   | O sistema deve permitir ao Usuário filtrar os Prestadores por critérios adicionais (Ex: Avaliação, Preço/Hora). |
+| RF008  | Visualização        | O sistema deve permitir que o Usuário visualize o perfil detalhado do Prestador, incluindo descrição, serviços oferecidos e avaliações. |
+| RF009  | Visualização        | O sistema deve exibir a distância aproximada do Prestador em relação ao Usuário. |
+| RF010  | Contato             | O sistema deve oferecer um recurso de chat interno para que o Usuário possa entrar em contato direto com o Prestador. |
+| RF011  | Contato             | O sistema deve enviar notificações ao Prestador quando um Usuário envia uma nova mensagem. |
+| RF012  | Gerenciamento de Perfil | O Prestador deve poder atualizar seus dados de contato, foto, descrição e a lista de serviços oferecidos. |
+| RF013  | Gerenciamento de Perfil | O Prestador deve poder configurar seu raio de atendimento em quilômetros. |
+| RF014  | Avaliação           | O sistema deve permitir que o Usuário avalie o Prestador após a conclusão de um serviço, usando uma nota (Ex: 1 a 5 estrelas) e um comentário. |
+
+---
+
+| ID      | Categoria        | Requisito Não Funcional |
+|----------|------------------|--------------------------|
+| RNF001  | Performance      | O tempo de carregamento da tela inicial e da lista de prestadores mais próximos não deve exceder 3 segundos. |
+| RNF002  | Performance      | A consulta de busca e filtragem de prestadores deve retornar resultados em menos de 1.5 segundos. |
+| RNF003  | Segurança        | As senhas dos usuários e prestadores devem ser armazenadas de forma segura (Ex: criptografia bcrypt ou argon2). |
+| RNF004  | Segurança        | A comunicação entre o aplicativo e a API (backend) deve ser criptografada (TLS/SSL - HTTPS). |
+| RNF005  | Usabilidade      | A interface do aplicativo deve ser intuitiva e responsiva, adaptando-se a diferentes tamanhos de tela de smartphones. |
+| RNF006  | Usabilidade      | A navegação entre as telas de busca, perfil e chat deve ser clara, exigindo no máximo 3 cliques para acessar o perfil de um prestador a partir da tela inicial. |
+| RNF007  | Confiabilidade   | O sistema deve ter uma disponibilidade (uptime) mínima de 99.5% por mês. |
+| RNF008  | Manutenibilidade | O código-fonte deve ser modularizado e documentado, facilitando a adição de novas categorias de serviço ou funcionalidades futuras (Ex: agendamento). |
+| RNF009  | Escalabilidade   | A arquitetura deve ser capaz de suportar um crescimento de até 10x o número inicial de usuários cadastrados nos primeiros 12 meses. |
+| RNF010  | Tecnologia       | O aplicativo deve ser compatível com as duas versões mais recentes dos sistemas operacionais Android e iOS. |
 
 
