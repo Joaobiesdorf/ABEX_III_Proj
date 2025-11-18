@@ -67,6 +67,48 @@ João Gabriel Biesdorf
 ### 🧠 Problema Central
 > “Como podemos conectar contratantes e prestadores autônomos de forma rápida, segura e confiável, garantindo qualidade e confiança mútua?”
 
+--- 
+
+## 📊 Matriz CSD (Certezas, Suposições e Dúvidas)
+
+### ✅ Certezas
+- Clientes têm dificuldade em encontrar profissionais confiáveis rapidamente.
+- Prestadores dependem de indicações e levam de 5 a 7 dias para conseguir novos clientes.
+- A confiança depende de avaliações reais, fotos e garantias de pagamento.
+- Há desconfiança inicial em contratar desconhecidos.
+- O sistema deve ser simples, rápido e intuitivo.
+- Tanto clientes quanto prestadores necessitam de segurança (verificação, pagamento, LGPD).
+- Usuários esperam suporte rápido e eficiente.
+- Taxas entre 10% e 15% são consideradas justas pelos prestadores.
+- Há risco de cancelamentos, não pagamento e má prestação do serviço.
+- Experiências ruins no primeiro uso levam ao abandono da plataforma.
+
+---
+
+### 🟠 Suposições
+- Prestadores aceitariam facilmente um processo de verificação de identidade.
+- Clientes preferem pagar pelo aplicativo em vez de diretamente ao prestador.
+- O programa de indicação aumentaria significativamente o engajamento.
+- O sistema multilíngue ajudaria na expansão regional.
+- Um selo de verificação aumentaria a conversão e reduziria cancelamentos.
+- Perfis completos (fotos, preços, serviços) aumentam a confiança do usuário.
+- A maior dor dos prestadores é garantir pagamento; a maior dos clientes é confiança no profissional.
+- Prestadores valorizam o chat interno como principal meio de negociação.
+
+---
+
+### ❓ Dúvidas
+- Qual é a taxa de cancelamento aceitável dentro da plataforma?
+- Qual modelo jurídico melhor protege cliente e prestador?
+- O que realmente faz o cliente abandonar a plataforma no primeiro uso?
+- Quais critérios pesam mais na escolha do prestador (preço, reputação, localização)?
+- Prestadores aceitariam taxas progressivas ou variáveis por serviço?
+- O suporte deve ser 24/7 ou horário comercial é suficiente?
+- Como evitar fraudes no processo de verificação de identidade?
+- Quais categorias de serviço devem ser priorizadas no lançamento?
+- Qual o tempo máximo aceitável para resposta de um prestador?
+- O uso de geolocalização aumenta significativamente a conversão?
+
 ---
 
 ## 💭 IDEAÇÃO
