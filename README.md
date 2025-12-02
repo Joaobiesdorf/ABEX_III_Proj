@@ -245,7 +245,7 @@ Campo de avaliação por estrelas e comentário
 |T2	|Tempo de resposta	|2	|2|	4|
 |T3	|Eficiência	|1|	4|	4|
 |T4	|Processamento complexo|	1|	2|	2|
-|T5	|Código reusável	|1|	|3|	3|
+|T5	|Código reusável	|1	|3|	3|
 |T6	|Facilidade de instalação|	0,5|	5|	2,5|
 |T7|	Facilidade de uso|	0,5|	5|	2,5|
 |T8	|Portabilidade	|2	|4	|8|
@@ -274,7 +274,7 @@ Campo de avaliação por estrelas e comentário
 
 <img width="973" height="547" alt="image" src="https://github.com/user-attachments/assets/07038c86-bf1f-4ec6-b259-2835916ee132" />
 
-
 ---
-			<img width="866" height="741" alt="image" src="https://github.com/user-attachments/assets/672e972b-5f53-4750-a6fd-42a2b209b5aa" />
+
+<img width="866" height="741" alt="image" src="https://github.com/user-attachments/assets/672e972b-5f53-4750-a6fd-42a2b209b5aa" />
 
