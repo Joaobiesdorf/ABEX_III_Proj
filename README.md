@@ -218,4 +218,14 @@ Campo de avaliação por estrelas e comentário
 | RNF008  | Escalabilidade   | A arquitetura deve ser capaz de suportar um crescimento de até 10x o número inicial de usuários cadastrados nos primeiros 12 meses. |
 | RNF009  | Tecnologia       | O aplicativo deve ser compatível com as duas versões mais recentes dos sistemas operacionais Android e iOS. |
 
+---
+
+### CASE USE POINTS
+
+| Tipo de ator    | Descrição        | Peso | Num. |  Resultado |
+|-----------------|------------------|------|------|------------|
+|Ator Simples |	Outro sistema acessado através de uma API de programação|	1|	1|	1|
+|Ator Médio	  | Outro sistema acessado interagindo através da rede|	2	|3|	6|
+|Ator Complexo|	Um usuário interagindo através de uma interface gráfica|	3	|2	|6|
+		##	Total UAW:	13
 
