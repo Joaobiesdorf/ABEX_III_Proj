@@ -5,11 +5,26 @@ João Gabriel Biesdorf
 
 ## 🧭 IMERSÃO & EMPATIA
 
-### 🎯 Stakeholders
-- **Cliente & Usuário:** Pessoa (Física ou Jurídica) e Prestador de serviços autônomos 
-- **Ambiente interno:** Desenvolvedores, suporte, marketing e financeiro  
-- **Ambiente externo:** Sindicatos, plataformas parceiras e imprensa  
-- **Macro-ambiente:** Legislação trabalhista, economia local e empregabilidade  
+<img width="1053" height="591" alt="STAKE" src="https://github.com/user-attachments/assets/25ce752e-86b7-4f76-a128-c9f82135cc22" />
+
+---
+
+<img width="1044" height="595" alt="cap" src="https://github.com/user-attachments/assets/e8d97401-e523-48b8-8d5d-6d54dcc9a9ec" />
+
+---
+
+<img width="1046" height="604" alt="EMPATIA" src="https://github.com/user-attachments/assets/e421b4dc-343a-492b-af0d-d0e650e948cd" />
+
+---
+## 📊 Matriz CSD (Certezas, Suposições e Dúvidas)
+<img width="1050" height="616" alt="CSD" src="https://github.com/user-attachments/assets/b43a4a75-0623-4cf4-a4a0-0a2e42865b01" />
+
+---
+
+<img width="1051" height="586" alt="PE1" src="https://github.com/user-attachments/assets/8f68b289-d4b4-4472-bc17-8eb9adc15eef" />
+
+<img width="1049" height="587" alt="PE2" src="https://github.com/user-attachments/assets/ef03217c-a49b-4f36-99d3-c2ee0096b6d0" />
+
 
 ### 💥 Necessidades e Dores
 - Dificuldade de encontrar profissionais confiáveis rapidamente  
@@ -67,64 +82,9 @@ João Gabriel Biesdorf
 ### 🧠 Problema Central
 > “Como podemos conectar contratantes e prestadores autônomos de forma rápida, segura e confiável, garantindo qualidade e confiança mútua?”
 
---- 
-
-## 📊 Matriz CSD (Certezas, Suposições e Dúvidas)
-
-### ✅ Certezas
-- Clientes têm dificuldade em encontrar profissionais confiáveis rapidamente.
-- Prestadores dependem de indicações e levam de 5 a 7 dias para conseguir novos clientes.
-- A confiança depende de avaliações reais, fotos e garantias de pagamento.
-- Há desconfiança inicial em contratar desconhecidos.
-- O sistema deve ser simples, rápido e intuitivo.
-- Tanto clientes quanto prestadores necessitam de segurança (verificação, pagamento, LGPD).
-- Usuários esperam suporte rápido e eficiente.
-- Taxas entre 10% e 15% são consideradas justas pelos prestadores.
-- Há risco de cancelamentos, não pagamento e má prestação do serviço.
-- Experiências ruins no primeiro uso levam ao abandono da plataforma.
-
 ---
 
-### 🟠 Suposições
-- Prestadores aceitariam facilmente um processo de verificação de identidade.
-- Clientes preferem pagar pelo aplicativo em vez de diretamente ao prestador.
-- O programa de indicação aumentaria significativamente o engajamento.
-- O sistema multilíngue ajudaria na expansão regional.
-- Um selo de verificação aumentaria a conversão e reduziria cancelamentos.
-- Perfis completos (fotos, preços, serviços) aumentam a confiança do usuário.
-- A maior dor dos prestadores é garantir pagamento; a maior dos clientes é confiança no profissional.
-- Prestadores valorizam o chat interno como principal meio de negociação.
-
----
-
-### ❓ Dúvidas
-- Qual é a taxa de cancelamento aceitável dentro da plataforma?
-- Qual modelo jurídico melhor protege cliente e prestador?
-- O que realmente faz o cliente abandonar a plataforma no primeiro uso?
-- Quais critérios pesam mais na escolha do prestador (preço, reputação, localização)?
-- Prestadores aceitariam taxas progressivas ou variáveis por serviço?
-- O suporte deve ser 24/7 ou horário comercial é suficiente?
-- Como evitar fraudes no processo de verificação de identidade?
-- Quais categorias de serviço devem ser priorizadas no lançamento?
-- Qual o tempo máximo aceitável para resposta de um prestador?
-- O uso de geolocalização aumenta significativamente a conversão?
-
----
-
-## 💭 IDEAÇÃO
-
-### ✨ Ideias Propostas
-- Sistema de avaliações e comentários com fotos  
-- Verificação de identidade com selo confiável  
-- Programa de indicação com recompensas  
-- Garantia de pagamento e mediação de disputas  
-- Sistema multilíngue e categorização regional  
-
-### 💎 Ideias com Maior Impacto
-- App **mobile-first** com geolocalização e chat interno  
-- Cadastro simples e rápido com verificação  
-- Pagamento seguro com proteção contra fraudes  
-- Reputação baseada em histórico e feedback  
+<img width="487" height="1467" alt="image" src="https://github.com/user-attachments/assets/184be898-2470-477a-be04-bdbf86c813bd" />
 
 ---
 
