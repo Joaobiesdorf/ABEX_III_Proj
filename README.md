@@ -227,5 +227,54 @@ Campo de avaliação por estrelas e comentário
 |Ator Simples |	Outro sistema acessado através de uma API de programação|	1|	1|	1|
 |Ator Médio	  | Outro sistema acessado interagindo através da rede|	2	|3|	6|
 |Ator Complexo|	Um usuário interagindo através de uma interface gráfica|	3	|2	|6|
-		##	Total UAW:	13
+			Total UAW:	13
+			
+			---
+|	Tipo	|Descrição|	Peso	|N. de Casos de Uso|	Resultado|
+|-----------|---------|---------|------------------|-------------|
+|Simples|	Tem até 3 transações, incluindo os passos alternativos, e envolve menos de 5 entidades;|	5|	2|	10|
+|Médio	|Tem de 4 a 7 transações, incluindo os passos alternativos, e envolve de 5 a 10 entidades;	|10	|3|	30|
+|Complexo|	Tem acima de 7 transações, incluindo os passos alternativos, e envolve pelo menos de 10 entidades;|	15|	1|	15|
+			Total:	55		
+
+---
+
+|Fator|	Requisito|	Peso	|Influência|	Resultado|
+|-----|----------|----------|----------|-------------|
+|T1	|Sistema distribuído	|2	|3|	6|
+|T2	|Tempo de resposta	|2	|2|	4|
+|T3	|Eficiência	|1|	4|	4|
+|T4	|Processamento complexo|	1|	2|	2|
+|T5	|Código reusável	|1|	|3|	3|
+|T6	|Facilidade de instalação|	0,5|	5|	2,5|
+|T7|	Facilidade de uso|	0,5|	5|	2,5|
+|T8	|Portabilidade	|2	|4	|8|
+|T9	|Facilidade de mudança|	1|	4|	4|
+|T10|	Concorrência	|1	|3	|3|
+|T11|	Recursos de segurança|	1|	5|	5|
+|T12|	Acessível por terceiros	|1|	2|	2|
+|T13|	Requer treinamento especial|	1|	0|	0|
+			Total:	46
+			
+---
+
+|Fator|	Requisito|	Peso|	Influência	|Resultado|
+|-----|----------|------|---------------|---------|
+|E1|	Familiaridade com processo formal de desenvolvimento|	1,5|	4|	6|
+|E2|	Experiência com a aplicação em desenvolvimento|	0,5|	5|	2,5|
+|E3|	Experiência em Orientação a Objetos|	1	|4|	4|
+|E4|	Presença de analista experiente|	0,5|	5|	2,5|
+|E5|	Motivação|	1|	4|	4|
+|E6|	Requisitos estáveis|	2|	4|	8|
+|E7|	Desenvolvedores em meio-expediente|	-1|	2|	-2|
+|E8|	Linguagem de programação difícil|	2|	3|	6|
+			Total:	31
+
+---
+
+<img width="973" height="547" alt="image" src="https://github.com/user-attachments/assets/07038c86-bf1f-4ec6-b259-2835916ee132" />
+
+
+---
+			<img width="866" height="741" alt="image" src="https://github.com/user-attachments/assets/672e972b-5f53-4750-a6fd-42a2b209b5aa" />
 
