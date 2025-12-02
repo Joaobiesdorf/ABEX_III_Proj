@@ -276,5 +276,6 @@ Campo de avaliação por estrelas e comentário
 
 ---
 
-<img width="866" height="741" alt="image" src="https://github.com/user-attachments/assets/672e972b-5f53-4750-a6fd-42a2b209b5aa" />
+<img width="830" height="736" alt="image" src="https://github.com/user-attachments/assets/a572f588-6b25-44e3-985f-321552e04796" />
+
 
